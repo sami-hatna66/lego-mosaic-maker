@@ -18,5 +18,3 @@ The following packages must be installed via pip:
 <p float="left">
   <img src="screenshots/screenshot2.png?raw=true" width="400" />
 </p>
-
-## Future additions
