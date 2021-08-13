@@ -10,4 +10,9 @@ The following packages must be installed via pip:
 
 ## Screenshots
 
+<p float="left">
+  <img src="screenshots/screenshot1.png?raw=true" width="350" />
+  <img src="screenshots/screenshot2.png?raw=true" width="350" />
+</p>
+
 ## Future additions
