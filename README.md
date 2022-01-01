@@ -1,5 +1,5 @@
 <p align="center">
-<img width="200" alt="Lego mosaic" src="https://user-images.githubusercontent.com/88731772/147842835-8a789e91-98b9-456d-a977-2365cdc9f96b.png">
+<img width="200" alt="Lego mosaic" src="https://user-images.githubusercontent.com/88731772/147842856-81ea27c1-c600-48df-87f2-2053410482b8.png">  
 </p>
 
 # Lego Mosaic Maker
